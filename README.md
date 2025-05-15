@@ -91,7 +91,7 @@ page 3
   <div class="register">REGISTER</div>
 </div>
 
-[age 4
+page 4
 
 <div class="i-phone-16-plus-1">
   <div class="contact-us">CONTACT US</div>
